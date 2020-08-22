@@ -1,0 +1,30 @@
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.csprojAssemblyReference.cache
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\MainWindow.g.cs
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\App.g.cs
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02_MarkupCompile.cache
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02_MarkupCompile.lref
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\bin\Debug\Syed_Rumail_Exercise02.exe.config
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\bin\Debug\Syed_Rumail_Exercise02.exe
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\bin\Debug\Syed_Rumail_Exercise02.pdb
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\MainWindow.baml
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.g.resources
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.Properties.Resources.resources
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.csproj.GenerateResource.cache
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.csproj.CoreCompileInputs.cache
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.exe
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.pdb
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\bin\Debug\Syed_Rumail_Exercise02.exe.config
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\bin\Debug\Syed_Rumail_Exercise02.exe
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\bin\Debug\Syed_Rumail_Exercise02.pdb
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.csprojAssemblyReference.cache
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\MainWindow.g.cs
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\App.g.cs
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02_MarkupCompile.cache
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02_MarkupCompile.lref
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\MainWindow.baml
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.g.resources
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.Properties.Resources.resources
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.csproj.GenerateResource.cache
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.csproj.CoreCompileInputs.cache
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.exe
+C:\Users\Romi\Desktop\New folder\C#\Syed_Rumail_COMP212_Sec003_Lab04\Syed_Rumail_Exercise02\obj\Debug\Syed_Rumail_Exercise02.pdb

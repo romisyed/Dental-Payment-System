@@ -1,0 +1,31 @@
+﻿<Window x:Class="Dental_Payment_System.MainWindow"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:local="clr-namespace:Dental_Payment_System"
+mc:Ignorable="d"
+Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Dental Payment System" HorizontalAlignment="Left" Margin="308,28,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="ExtraBold"/>
+        <Label Content="Name of Patient:" HorizontalAlignment="Left" Margin="39,93,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="188,93,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="254" Name="txtName"/>
+        <Label Content="Addess" HorizontalAlignment="Left" Margin="89,163,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="188,163,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="254" Name="txtAddress"/>
+        <Label Content="Dental Services Avaiable" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Margin="510,57,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="Flossing" HorizontalAlignment="Left" Margin="510,107,0,0" VerticalAlignment="Top" Name="chkFlossing"/>
+        <Label Content="$20.00" HorizontalAlignment="Left" Margin="677,101,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.556,-0.101" />
+        <CheckBox Content="Filling" HorizontalAlignment="Left" Margin="510,151,0,0" VerticalAlignment="Top" Name="chkFilling"/>
+        <Label Content="$75.00" HorizontalAlignment="Left" Margin="677,145,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.556,-0.101"/>
+        <CheckBox Content="Root Canal" HorizontalAlignment="Left" Margin="510,200,0,0" VerticalAlignment="Top" Name="chkRootCanal"/>
+        <Label Content="$150.00" HorizontalAlignment="Left" Margin="677,194,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.556,-0.101"/>
+        <Button Content="Calculate" HorizontalAlignment="Left" Margin="648,313,0,0" VerticalAlignment="Top" Width="119" Height="41" FontSize="14" Click="btnCalculate_onClick" Name ="btnCalculate"/>
+        <RadioButton Content="Senior" HorizontalAlignment="Left" Margin="60,259,0,0" VerticalAlignment="Top" GroupName="category" Name="rdbSenior"/>
+        <RadioButton Content="Kids and Youth" HorizontalAlignment="Left" Margin="203,259,0,0" VerticalAlignment="Top" GroupName="category" Name ="rdbKidsAndYouth"/>
+        <RadioButton Content="Adult" HorizontalAlignment="Left" Margin="357,259,0,0" VerticalAlignment="Top" GroupName="category" Name ="rdbAdult"/>
+        <Label Content="Label" FontSize="14" Name ="lblResult" HorizontalAlignment="Left" Margin="60,364,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="188,215,0,0" VerticalAlignment="Top" Width="120" Name="cmbProviences"/>
+        <Label Content="Provience" HorizontalAlignment="Left" Margin="76,215,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
